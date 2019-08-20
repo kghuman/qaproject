@@ -2,7 +2,7 @@ package commonLibs.implementations;
 
 import org.openqa.selenium.WebDriver;
 
-import commonLibs.contracts.IAlerts;
+import commonLibs.contracts.IAlerts; //github change 
 
 public class AlertControl implements IAlerts {
 	private WebDriver driver;
