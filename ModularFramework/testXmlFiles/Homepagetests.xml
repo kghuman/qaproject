@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="homepageSuite">
+  <test thread-count="5" name="homepageTest">
+    <classes>
+      <class name="in.amazon.tests.HomepageTests"/>
+    </classes>
+  </test> <!-- homepageTest -->
+</suite> <!-- homepageSuite -->
